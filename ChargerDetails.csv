@@ -1,0 +1,11 @@
+id,charger_id,location,operator,manufacturer,model,year_of_manufacture,charger_type,power_rating,connector_types,voltage,installation_date,commissioning_date,installer,firmware_version,ocpp_version,network_connectivity,grid_connection,energy_source
+1,7577,Seattle,ChargePoint,ChargePoint,ChargePoint L2 Station,2015,Ultra-Fast Charger,1 kW,CCS2,600V,11/4/2023,3/8/2024,ChargePoint,3.2.1,1.6,Local Area Network (LAN),Single-Phase,Grid Electricity
+2,9434,808 Harbor Way,ChargePoint,ChargePoint,ChargePoint Express Plus,2016,DC Fast Charger,7.2 kW,NEMA 5-15,600V,11/8/2023,6/5/2024,ChargePoint,5.0.0,1.6,LPWAN,Three-Phase,Diesel Generators
+3,2365,WI 53201,ChargePoint,ChargePoint,ChargePoint Express 200,2013,Level 3 Charger,7.2 kW,Tesla Connector,120V,11/12/2023,4/15/2024,ChargePoint,2.0.0,2.0,Cellular (3G/4G/5G),Single-Phase,Battery Storage
+4,6638,1313 Broad St,ChargePoint,ChargePoint,ChargePoint Express Plus,2017,Ultra-Fast Charger,3 kW,CHAdeMO,480V,10/30/2023,7/11/2024,ChargePoint,3.2.1,2.0,Zigbee,AC Grid Connection,Grid Electricity
+5,3038,VA,ChargePoint,ChargePoint,ChargePoint Home Flex,2014,Tesla Supercharger,150 kW,GB/T,400V,11/15/2023,9/27/2024,ChargePoint,3.3.0,1.6,Zigbee,DC Grid Connection,Grid Electricity
+6,8601,TN,ChargePoint,ChargePoint,ChargePoint Express 200,2014,Level 3 Charger,7.2 kW,NEMA 14-50,120V,11/11/2023,4/5/2024,ChargePoint,4.5.0,2.0,Wi-Fi,DC Grid Connection,Grid Electricity
+7,7131,GA 30303 Salt Lake City,ChargePoint,ChargePoint,ChargePoint C2 Wall Mount,2022,Level 3 Charger,350 kW,Type 1 (J1772),800V,11/7/2023,2/19/2024,ChargePoint,5.0.0,2.0,Powerline Communication,DC Grid Connection,Diesel Generators
+8,5690,VA,ChargePoint,ChargePoint,ChargePoint Express 200,2013,Tesla Supercharger,22 kW,CCS2,120V,11/15/2023,6/9/2024,ChargePoint,4.0.1,1.6,Wired Ethernet,AC Grid Connection,Battery Storage
+9,7397,OH,ChargePoint,ChargePoint,ChargePoint CT4000 Series,2023,Ultra-Fast Charger,350 kW,CHAdeMO,600V,11/4/2023,6/18/2024,ChargePoint,3.2.1,2.0,Bluetooth,Three-Phase,Battery Storage
+10,1748,Atlanta,ChargePoint,ChargePoint,ChargePoint Express 200,2023,Level 2 Public Charger,22 kW,Type 1 (J1772),600V,10/29/2023,7/1/2024,ChargePoint,1.0.0,2.0,Local Area Network (LAN),AC Grid Connection,Fuel Cells

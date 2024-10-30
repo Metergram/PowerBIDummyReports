@@ -1,0 +1,11 @@
+id,age,charger_id,model,power,region
+1,4,7577,ChargePoint,11kW,East
+2,3,9434,Tera,22kW,South-East
+3,3,2365,Tera,22kW,East
+4,4,6638,Tera,16kW,West
+5,3,3038,Leviton,22kW,East
+6,1,8601,ChargePoint,16kW,West
+7,2,7131,Tera,22kW,East
+8,2,5690,Tera,7.4kW,South-West
+9,5,7397,Tera,22kW,West
+10,1,1748,Leviton,16kW,South-East
